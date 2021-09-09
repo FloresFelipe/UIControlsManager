@@ -62,9 +62,12 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">0</Property>
 		<Item Name="Add Selected Ctrl Properties.vi" Type="VI" URL="../Add Selected Ctrl Properties.vi"/>
+		<Item Name="Clean List of Properties Selection by Type.vi" Type="VI" URL="../Clean List of Properties Selection by Type.vi"/>
 		<Item Name="Close Module.vi" Type="VI" URL="../Close Module.vi"/>
 		<Item Name="Convert to Tree Data.vi" Type="VI" URL="../Convert to Tree Data.vi"/>
+		<Item Name="Ctrl Properties Map Data.ctl" Type="VI" URL="../Ctrl Properties Map Data.ctl"/>
 		<Item Name="Get Module Main VI Information.vi" Type="VI" URL="../Get Module Main VI Information.vi"/>
+		<Item Name="Get Selected Controls - List of properties.vi" Type="VI" URL="../Get Selected Controls - List of properties.vi"/>
 		<Item Name="Get Selected Controls.vi" Type="VI" URL="../Get Selected Controls.vi"/>
 		<Item Name="Handle Exit.vi" Type="VI" URL="../Handle Exit.vi"/>
 		<Item Name="Hide VI Panel.vi" Type="VI" URL="../Hide VI Panel.vi"/>
@@ -76,7 +79,11 @@
 		<Item Name="Module Not Synced--error.vi" Type="VI" URL="../Module Not Synced--error.vi"/>
 		<Item Name="Module Timeout--constant.vi" Type="VI" URL="../Module Timeout--constant.vi"/>
 		<Item Name="Open VI Panel.vi" Type="VI" URL="../Open VI Panel.vi"/>
+		<Item Name="Property array.ctl" Type="VI" URL="../Property array.ctl"/>
+		<Item Name="Remove Controls from List of Properties.vi" Type="VI" URL="../Remove Controls from List of Properties.vi"/>
 		<Item Name="Request and Wait for Reply Timeout--error.vi" Type="VI" URL="../Request and Wait for Reply Timeout--error.vi"/>
+		<Item Name="Selected Ctrls - List of Controls.ctl" Type="VI" URL="../Selected Ctrls - List of Controls.ctl"/>
+		<Item Name="Selected Ctrls - List of Properties.ctl" Type="VI" URL="../Selected Ctrls - List of Properties.ctl"/>
 		<Item Name="Update List of Controls Tree.vi" Type="VI" URL="../Update List of Controls Tree.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
