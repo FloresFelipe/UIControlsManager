@@ -9,6 +9,7 @@
 		<Property Name="IOScan.Priority" Type="UInt">9</Property>
 		<Property Name="IOScan.ReportModeConflict" Type="Bool">true</Property>
 		<Property Name="IOScan.StartEngineOnDeploy" Type="Bool">false</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -24,7 +25,11 @@
 			</Item>
 			<Item Name="Testers" Type="Folder">
 				<Item Name="Test Control Property Tree API.vi" Type="VI" URL="../Control Property Tree/Test Control Property Tree API.vi"/>
+				<Item Name="Test Property Panel API.vi" Type="VI" URL="../Libraries/Property Panel/Test Property Panel API.vi"/>
 			</Item>
+		</Item>
+		<Item Name="Property Panel Module" Type="Folder">
+			<Item Name="Property Panel.lvlib" Type="Library" URL="../Libraries/Property Panel/Property Panel.lvlib"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
